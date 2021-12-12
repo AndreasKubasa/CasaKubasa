@@ -99,7 +99,7 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 ## Kinderzimmer 2
 ### Funktionen
 - Präsenzerkennung bestimmte Stimmung einschalten
-- - wird manuell eingegriffen z.B.: durch Licht abdrehen wenn man sich im Raum befindet(Präsenzerkennung) bleibt es auf Manuell, verlässt man den Raum für eine Stunde soll wieder auf Automatik gestellt werden 
+- wird manuell eingegriffen z.B.: durch Licht abdrehen wenn man sich im Raum befindet(Präsenzerkennung) bleibt es auf Manuell, verlässt man den Raum für eine Stunde soll wieder auf Automatik gestellt werden 
 
 ## Schlafzimmer
 ### Funktionen
