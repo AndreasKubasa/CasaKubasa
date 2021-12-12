@@ -20,7 +20,8 @@
 ## WC
 Soll so wirken als würde man im Wald auf der Toilette sitzen
 - Präsenzerkennung Licht einschalten
-### Ausreichend Licht
+
+### Bei ausreichend Licht
 - Lautsprecher: 12%
 - Nachlaufzeit: 60 Sekunden+
 
@@ -67,6 +68,7 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 ### Funktionen
 - Präsenzerkennung Licht einschalten
 - Luftfeuchtigkeitsmesser Durchsagen (zu hoch soll einfach Lautsprecher Wellenrauschen (Playlist) weiter abspielen, "Fenster kann geschloßen werden, Luftfeuchtigkeit wieder im Normalbereich)
+
 ### Bei ausreichend Licht 
 - Lautsprecher: 12%
 - Nachlaufzeit: 60 Sekunden+
