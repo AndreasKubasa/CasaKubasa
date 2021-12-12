@@ -126,4 +126,4 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 
 ## Terrasse
 ### Funktionen
-- bei Dunkelheit durch öffner der Terrassentür Licht einschalten beim schliessen der Twerrassentür wieder abschalten 
+- bei Dunkelheit durch öffner der Terrassentür Licht einschalten beim schliessen der Terrassentür wieder abschalten 
