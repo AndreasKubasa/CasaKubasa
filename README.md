@@ -4,13 +4,12 @@
 
 ## Windfang
 ### Funktionen
-- Beim reinkommen soll (durch den NFC chip erkennbar) das Licht angehen und ein individueller Text gesprochen werden: "Willkommen zuhause Jennifer"
-- Wenn Andreas Kubasa (bestimmte Person) länger als 8 Stunden zuhause nicht Anwesend war soll beim betretten des Hauses (durch nutzen des NFC Schlüssels) eine Durchsage: "Dein Kaffee ist in 5 Minuten für dich bereit Andreas" starten und fünf Minuten später soll ein Befehl an die Kaffeemaschine gegeben werden einen Kaffee zu machen (Home Connect), aufhaltbar indem man beim reingehen einmal auf den Taster im Eingang klickt.
+- Beim reinkommen soll (durch den NFC Chip erkennbar) das Licht angehen und ein individueller Text gesprochen werden: "Willkommen zuhause Jennifer"
+- Wenn Andreas Kubasa (bestimmte Person) länger als 8 Stunden zuhause nicht Anwesend war soll beim betreten des Hauses (durch nutzen des NFC Schlüssels) eine Durchsage: "Dein Kaffee ist in 5 Minuten für dich bereit Andreas" starten und fünf Minuten später soll ein Befehl an die Kaffeemaschine gegeben werden einen Kaffee zu machen (Home Connect), aufhaltbar indem man beim reingehen einmal auf den Taster im Eingang klickt.
 
 **3-fach Klick** 
 - alle Lichter und Lautsprecher gehen aus
-- lässt Türglocke nicht mehr funktionieren
-- stellt Außen auf Scharf
+- stellt Alarmanlage auf Scharf
 - dreht die Kaffeemaschine ab (Home Connect)
 - dreht den Ofen ab (Home Connect)
 - dreht den Geschirrspüler ab (Home Connect)
