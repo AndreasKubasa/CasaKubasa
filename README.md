@@ -20,8 +20,7 @@
 ## WC
 Soll so wirken als würde man im Wald auf der Toilette sitzen
 - Präsenzerkennung Licht einschalten
-### Tag
-- Licht: 60%
+### Ausreichend Licht
 - Lautsprecher: 12%
 - Nachlaufzeit: 60 Sekunden+
 
@@ -29,7 +28,7 @@ Beim betreten, Vogelgeräusche (Playlist Vogelgeräusche etc.) abspielen mit 12%
 Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 0%
 Wenn Bewegung Aktor Relais (Spiegel) einschalten *
 
-### Nacht
+### Bei Dunkelheit
 - Licht: 60%
 - Lautsprecher: 12%
 - Nachlaufzeit: 60 Sekunden
@@ -68,8 +67,7 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 ### Funktionen
 - Präsenzerkennung Licht einschalten
 - Luftfeuchtigkeitsmesser Durchsagen (zu hoch soll einfach Lautsprecher Wellenrauschen (Playlist) weiter abspielen, "Fenster kann geschloßen werden, Luftfeuchtigkeit wieder im Normalbereich)
-### Tag
-- Licht: 60%
+### Bei ausreichend Licht 
 - Lautsprecher: 12%
 - Nachlaufzeit: 60 Sekunden+
 
@@ -77,7 +75,7 @@ Beim betreten, Meeresrauschen (Playlist Meeresrauschen etc.) abspielen mit 12% L
 Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 0%
 Wenn Bewegung Aktor Relais (Spiegel) einschalten *
 
-### Nacht
+### bei Dunkelheit
 - Licht: 60%
 - Lautsprecher: 12%
 - Nachlaufzeit: 60 Sekunden
