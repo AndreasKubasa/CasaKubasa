@@ -1,4 +1,4 @@
-* Loxone Konzept Wohnhaus "Casa Kubasa" (C) Andreas Kubasa & Jennifer Kubasa
+*Loxone Konzept Wohnhaus "Casa Kubasa" (C) Andreas Kubasa & Jennifer Kubasa
 
 # Windfang
 ## Funktionen
