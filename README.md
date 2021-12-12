@@ -16,7 +16,7 @@
 - dreht den Geschirrspüler ab (Home Connect)
 
 **4-fach Klick**
-- kurzen Statusbericht geben: "Heute lieferte die Photovoltaik "so und so viel" Strom, Morgen wird schönes Wetter etc.
+- kurzen Statusbericht geben: "Heute lieferte die Photovoltaik "so und so viel" Strom, Morgen wird schönes Wetter, die durchschnittliche Luftfeuchtigkeit ist..., da und dort gibt es Probleme (z.B., Raum Badezimmer - Luftfeuchtigkeit zu hoch, morgen Hagel) etc.
 
 ## WC
 Soll so wirken als würde man im Wald auf der Toilette sitzen
@@ -68,7 +68,7 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 ## Badezimmer
 ### Funktionen
 - Präsenzerkennung Licht einschalten
-- Luftfeuchtigkeitsmesser Durchsagen (zu hoch, wieder im Normalbereich)
+- Luftfeuchtigkeitsmesser Durchsagen (zu hoch soll einfach Lautsprecher Wellenrauschen (Playlist) weiter abspielen, "Fenster kann geschloßen werden, Luftfeuchtigkeit wieder im Normalbereich)
 ### Tag
 - Licht: 60%
 - Lautsprecher: 12%
@@ -126,5 +126,4 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 
 ## Terrasse
 ### Funktionen
-- bei Dunkelheit durch öffner der Terrassentür Licht einschalten
-
+- bei Dunkelheit durch öffner der Terrassentür Licht einschalten beim schliessen der Twerrassentür wieder abschalten 
