@@ -15,11 +15,11 @@
 - dreht den Geschirrspüler ab (Home Connect)
 
 **4-fach Klick**
-- kurzen Statusbericht geben: "Heute lieferte die Photovoltaik "so und so viel" Strom, Morgen wird schönes Wetter, die durchschnittliche Luftfeuchtigkeit ist..., da und dort gibt es Probleme (z.B., Raum Badezimmer - Luftfeuchtigkeit zu hoch, morgen Hagel) etc.
+- kurzen Statusbericht geben: "Heute lieferte die Photovoltaik "so und so viel" Strom, Fensterstatus, Morgen wird schönes Wetter, die durchschnittliche Luftfeuchtigkeit ist..., da und dort gibt es Probleme (z.B., Raum Badezimmer - Luftfeuchtigkeit zu hoch, morgen Hagel) etc.
 
 ## WC
 Soll so wirken als würde man im Wald auf der Toilette sitzen
--Präsenzerkennung Licht einschalten
+- Präsenzerkennung Licht einschalten
 ### Tag
 - Licht: 60%
 - Lautsprecher: 12%
