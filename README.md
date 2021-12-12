@@ -72,7 +72,7 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 
 ### Bei ausreichend Licht 
 - Lautsprecher: 12%
-- Nachlaufzeit: 60 Sekunden+
+- Nachlaufzeit: 60 Sekunden
 
 Beim betreten, Meeresrauschen (Playlist Meeresrauschen etc.) abspielen mit 12% Lautstärke über den Lautsprecher
 Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 0%
@@ -106,6 +106,7 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 - Präsenzerkennung Licht einschalten
 - Jalousie soll immer aufgehen, wenn man die Terrassentür öffnet
 - Wenn Terrassentür gekippt wird dann Jalousien kippen falls geschlossen
+
 **3-fach Klick**
 - Lichtsteuerung durch Präsenz im Schlafzimmer aus
 - lässt Türglocke nicht mehr funktionieren
@@ -115,6 +116,7 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 - dreht den Geschirrspüler ab
 - wenn Präsenz nach Aktivierung im Gang erkannt wird zusätzlich Licht Windfang an
 - Hellichkeit der Lichter auf 15%
+
 **Wecker** 
 - Jalousien kippen
 - Waldgeräusche (Playlist) in der Kühlperiode der Heizung abspielen und 
