@@ -23,10 +23,10 @@ Soll so wirken als würde man im Wald auf der Toilette sitzen
 
 ### Bei ausreichend Licht
 - Lautsprecher: 12%
-- Nachlaufzeit: 60 Sekunden+
+- Nachlaufzeit: 60 Sekunden
 
 Beim betreten, Vogelgeräusche (Playlist Vogelgeräusche etc.) abspielen mit 12% Lautstärke über den Lautsprecher
-Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 0%
+Wenn keine Bewegung Lautsprecher stufenweise alle 5 Sekunden 1% leiser = 12% -> 0%
 Wenn Bewegung Aktor Relais (Spiegel) einschalten *
 
 ### Bei Dunkelheit
@@ -34,18 +34,19 @@ Wenn Bewegung Aktor Relais (Spiegel) einschalten *
 - Lautsprecher: 12%
 - Nachlaufzeit: 60 Sekunden
 
-Beim betreten, Licht an, Grillengeräusche (Playlist Grillengeräusche etc.) abspielen mit 12% Lautstärke über den Lautsprecher
+Beim betreten Licht an, Grillengeräusche (Playlist Grillengeräusche etc.) abspielen mit 12% Lautstärke über den Lautsprecher
 Wenn keine Bewegung stufenweise nach 30 sekunden jede Sekunde 2% weniger = licht 60% -> 0%
 Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 0%
 
 ## Technikraum
 - Präsenzerkennung Licht einschalten
-- Waschmaschine geht an wenn Photovoltaik genug einspeist ( Home Connect, Modbuszähler)
+- Waschmaschine geht an wenn Photovoltaik genug einspeist (Home Connect, Modbuszähler)
+- Lautsprecherdurchsage wenn Waschmaschine fertig ist (Home Connect)
 
 ## Wohnzimmer
 ### Funktionen
 - Präsenzmelder steuert nichts (Einzig für Präsenzerkennung bezüglich der Heizung und für die Alarmanlage)
-- Jalousie (nur die Türjalousin der geteilten Jalousien) soll immer aufgehen, wenn man die Terrassentür öffnet
+- Jalousie (nur die Türjalousien der geteilten Jalousien) soll immer aufgehen, wenn man die Terrassentür öffnet
 
 ## Küche
 ### Funktionen
@@ -53,21 +54,21 @@ Wenn keine Bewegung Lautsprecher stufenweise alle 5 sekunden 1% leiser = 12% -> 
 - Jalousie soll standardmäßig leicht gekippte Lammelen haben (Blickdicht)
 - Jalousie soll immer aufgehen, wenn man die Terrassentür öffnet
 - Licht soll bei Dunkelheit angehen wenn Backofen oder Dampfgarer fertig ist (Home Connect)
-- Lautsprecherdurchsage Backofen oder Dampfgarer fertig (Home Connect)
+- Lautsprecherdurchsage wenn Backofen oder Dampfgarer fertig ist (Home Connect)
 - Geschirrspüler soll sich erst einschalten wenn Photovoltaik genug einspeist, bevorzugt wenn das Haus verlassen wurde (Home Connect + Modbuszähler)
-- Wenn Kaffeemaschine mit Kaffee fertig ist, durchsage: "Genießen Sie Ihren frisch gebrühten Kaffee" (Home Connect)
+- Wenn Kaffeemaschine mit Kaffee fertig ist, Durchsage: "Genießen Sie Ihren frisch gebrühten Kaffee" (Home Connect)
 
 ## Esszimmer
 ### Funktionen
 - Jalousie soll immer aufgehen, wenn man die Terrassentür öffnet
 - Wenn Präsenz durch Bewegung am Tisch erkannt (Schwellenwert); gehen die Pendulums bei Dunkelheit an
 **4-fach Klick**
-- schaltet Klassische Musik (Playlist) in der Küche und Esszimmer ein
+- schaltet Klassische Musik (Playlist) in der Küche und im Esszimmer ein
 
 ## Badezimmer
 ### Funktionen
 - Präsenzerkennung Licht einschalten
-- Luftfeuchtigkeitsmesser Durchsagen (zu hoch soll einfach Lautsprecher Wellenrauschen (Playlist) weiter abspielen, "Fenster kann geschloßen werden, Luftfeuchtigkeit wieder im Normalbereich)
+- Luftfeuchtigkeitsmesser Durchsagen (zu hoch soll einfach Lautsprecher Wellenrauschen (Playlist) weiter abspielen, "Fenster kann geschloßen werden" wenn Luftfeuchtigkeit wieder im Normalbereich)
 
 ### Bei ausreichend Licht 
 - Lautsprecher: 12%
